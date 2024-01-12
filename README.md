@@ -8,6 +8,6 @@
 - [Аналитическая работа 2](./clouds/cloud_lab_2/README.md)
 
 # Exam
-- [Оглавление](./exam­/README.md)
+- [Оглавление](./exam/README.md)
 - [Теоретический вопрос 1](./exam/answer_1.md)
 - [Теоретический вопрос 2](./exam/answer_2.md)
