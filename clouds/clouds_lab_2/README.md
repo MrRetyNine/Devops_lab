@@ -55,7 +55,7 @@
 
 
 **Итоговая таблица:**
-
+![image](https://github.com/MrRetyNine/Devops_lab/assets/112976351/20478041-2594-4d42-85a1-3de92514d956)
 
 
 ## Вывод
