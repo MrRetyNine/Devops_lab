@@ -4,8 +4,8 @@
 - [Лабораторная работа 3](./lab-3/README.md)
 
 # Clouds_lab
-- [Аналитическая работа 1](./clouds/cloud_lab_1/README.md)
-- [Аналитическая работа 2](./clouds/cloud_lab_2/README.md)
+- [Аналитическая работа 1](./clouds/clouds_lab_1/README.md)
+- [Аналитическая работа 2](./clouds/clouds_lab_2/README.md)
 
 # Exam
 - [Оглавление](./exam/README.md)
